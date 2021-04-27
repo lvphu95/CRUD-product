@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "name": "A",
+        "price": 100,
+        "amount": 1,
+        "description": "Mặt hàng A"
+    },
+    {
+        "id": "2",
+        "name": "B",
+        "price": 200,
+        "amount": 1,
+        "description": "Mặt hàng B"
+    },
+    {
+        "id": "3",
+        "name": "C",
+        "price": 350,
+        "amount": 1,
+        "description": "Mặt hàng C"
+    },
+    {
+        "id": "0.9361393980784807",
+        "name": "D",
+        "price": 400,
+        "amount": 1,
+        "description": "Mặt hàng D"
+    },
+    {
+        "id": "0.10098653931376234",
+        "name": "E",
+        "price": 500,
+        "amount": 1,
+        "description": "Mặt hàng E"
+    },
+    {
+        "id": "0.661707431247778",
+        "name": "F",
+        "price": 600,
+        "amount": 1,
+        "description": "Mặt hàng F"
+    },
+    {
+        "id": "0.317678035507015",
+        "name": "K",
+        "price": 1000,
+        "amount": 1,
+        "description": "Mặt hàng K"
+    }
+]
